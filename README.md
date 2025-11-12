@@ -29,9 +29,6 @@ A comprehensive video proctoring system for online interviews that detects candi
 
 ## 📦 Installation
 
-src/routes/sessions.js
-README.md
-
 ### Prerequisites
 
 - Node.js 16+ and npm
